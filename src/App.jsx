@@ -6,6 +6,7 @@ import SignUp from "./pages/SignUp";
 import Navbar from "./components/Navbar";
 import Protectedroutes from "./protectedRoutes/Protectedroutes";
 import About from "./pages/About";
+import Drage from "./pages/Drage";
 
 
 function App() {
